@@ -1,0 +1,26 @@
+{
+    "coinType":"1",
+    "bech32MainPrefix":"prefix",
+    "chainId":"chainid-1",
+    "keyStoreAbsolutePath":"/KEYRING/DIR/ABSOLUTE",
+    "homeDir":".homeDir",
+    "website":"WEBSITE.URL.COM",
+    "securityContact":"SECURITYCONTACT",
+    "identity":"Identity",
+    "addGenesisAccAmount":"9000000000000000000000adenom",
+    "gentxAmount":"10000000000000000000adenom",
+    "gasLimit":"10000000",
+    "multisigThreshold":"2",
+
+    "gentxsDir":"./txgen/",
+    "unsignedTxFileName":"unsignedTx.json",
+    "multisignedTxFileName":"multisignedTx.json",
+    "moniker":"MONIKER",   
+
+    "defaultAccNum":"0",
+    "defaultAccSeq":"0",
+    "accountName1":"mykey1",
+    "accountName2":"mykey2",
+    "accountName3":"mykey3",
+    "multisigAccountName":"mykey4"
+}

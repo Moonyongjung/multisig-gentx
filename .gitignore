@@ -1,0 +1,16 @@
+# Set config and test file
+ready_set.sh
+start_set.sh
+config_set.json
+
+# Generated transaction 
+multisignedTx.json
+signedTx1.json
+signedTx2.json
+signedTx3.json
+unsignedTx.json
+
+# Binary
+multisiggentx
+
+
